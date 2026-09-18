@@ -19,4 +19,3 @@ CMD + SHIFT + V to preview markdown in VSCode
 ## Contact me
 
 [visit me on Linkedin](https://www.linkedin.com/in/andzhei-primyshev/)
-boo
