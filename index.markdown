@@ -12,7 +12,7 @@ This text is **bold**. This text is *italics*
 
 ## Projects
 
-[school project](IMG_8037.JPG)
+![school project](IMG_8037.JPG)
 
 CMD + SHIFT + V to preview markdown in VSCode
 
