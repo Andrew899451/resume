@@ -4,6 +4,8 @@
 
 This will be stuff about me...
 
+This text is **bold**. This text is *italics* 
+
 ##Education
 
 ##Employment
