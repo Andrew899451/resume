@@ -2,7 +2,7 @@
 
 ## About me
 
-This will be stuff about me...
+My name is Andrew, I'm a student of Humber College. Graphic Design program. 
 
 This text is **bold**. This text is *italics* 
 
