@@ -13,3 +13,5 @@ This text is **bold**. This text is *italics*
 ## Projects
 
 ## Contact me
+
+[visit me on] (https://www.linkedin.com/in/andzhei-primyshev/)
