@@ -6,10 +6,10 @@ This will be stuff about me...
 
 This text is **bold**. This text is *italics* 
 
-##Education
+## Education
 
-##Employment
+## Employment
 
-##Projects
+## Projects
 
-##Contact me
+## Contact me
