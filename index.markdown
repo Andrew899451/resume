@@ -4,8 +4,6 @@
 
 My name is Andrew, I'm a student of Humber College. Graphic Design program. I want to work as a graphic designer in the future. But I also consider many other employment opportunities in the future.
 
-This text is **bold**. This text is *italics* 
-
 ## Education
 
 - College: Humber College
