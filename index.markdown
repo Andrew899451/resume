@@ -12,6 +12,8 @@ This text is **bold**. This text is *italics*
 
 ## Projects
 
+<img src
+
 CMD + SHIFT + V to preview markdown in VSCode
 
 ## Contact me
